@@ -117,7 +117,7 @@ class AIVideoSummarizer:
     
     def run(self):
         st.set_page_config(page_title="AI Video Summarizer", page_icon="chart_with_upwards_trend", layout="wide")
-        st.title("AI Video Summarizer")
+        st.title("AI Video Timestamps Generator")
         editor = ModuleEditor('st_copy_to_clipboard')
         editor.modify_frontend_files()
         
