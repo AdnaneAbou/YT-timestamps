@@ -4,10 +4,10 @@ An AI-powered tool that generates video summaries, transcripts, and timestamps.
 
 ## App Examples 🖼️
 
-![Project Banner](screenshots\pic1.PNG?text=AI+Video+Summarizer) <
+![Project Banner](screenshots/pic1.PNG?text=AI+Video+Summarizer) <
 
-![Example](screenshots\pic2.PNG) 
-![Example](screenshots\pic3.PNG) 
+![Example](screenshots/pic2.PNG) 
+![Example](screenshots/pic3.PNG) 
 
 
 ## Features ✨
